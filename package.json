@@ -1,0 +1,26 @@
+{
+  "name": "azure-node-service-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "send": "node src/send.js",
+    "receive": "node src/receive.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocabrallce/azure-node-service-bus.git"
+  },
+  "keywords": [
+    "azure",
+    "node",
+    "service-bus"
+  ],
+  "author": "Leonardo Cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocabrallce/azure-node-service-bus/issues"
+  },
+  "homepage": "https://github.com/leocabrallce/azure-node-service-bus#readme"
+}
