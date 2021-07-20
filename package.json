@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/leocabrallce/azure-node-service-bus/issues"
   },
-  "homepage": "https://github.com/leocabrallce/azure-node-service-bus#readme"
+  "homepage": "https://github.com/leocabrallce/azure-node-service-bus#readme",
+  "dependencies": {
+    "@azure/service-bus": "^7.3.0",
+    "dotenv": "^10.0.0"
+  }
 }
